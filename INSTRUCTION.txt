@@ -1,0 +1,8 @@
+github-actions-linter/
+├── main.py
+├── requirements.txt
+├── .github/
+│   └── workflows/
+│       └── superlinter.yml
+├── .gitignore
+└── README.md            
