@@ -1,8 +1,8 @@
-github-actions-linter/
+github-actions-sonarqube/
 ├── main.py
 ├── requirements.txt
 ├── .github/
 │   └── workflows/
-│       └── superlinter.yml
+│       └── sonarqube.yml
 ├── .gitignore
-└── README.md            
+└── README.md        
